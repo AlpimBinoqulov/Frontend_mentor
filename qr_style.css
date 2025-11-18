@@ -3,13 +3,11 @@ body{
     display: flex;
 }
     
-.logo{
-    margin: 2rem;
-}
+
 .container{
     display: block;
     margin: auto;
-    margin-top: 7rem;
+    margin-top: 13rem;
     
     
 }
@@ -18,7 +16,7 @@ body{
          
     background-color: hsl(0, 0%, 100%);
     width: 20rem;
-    height: 30rem;
+    height: 35rem;
     border-radius: 10%;
     
 }
@@ -35,7 +33,7 @@ body{
     font-size: 1.5rem;
     font-weight: bold;
     font-family: 'Outfit', sans-serif;
-    margin-top: 1rem;
+    margin-top: 2rem;
 }
 .txt{
     text-align:center;
