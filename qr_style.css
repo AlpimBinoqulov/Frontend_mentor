@@ -16,7 +16,7 @@ body{
          
     background-color: hsl(0, 0%, 100%);
     width: 20rem;
-    height: 32rem;
+    height: 31rem;
     border-radius: 5%;
     
 }
@@ -30,14 +30,14 @@ body{
 }
 .title{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
     font-family: 'Outfit', sans-serif;
-    margin-top: 2rem;
+    margin: 2rem;
 }
 .txt{
     text-align:center;
-    font-size: 1.2rem;
-    margin: 1rem;
+    font-size: 1rem;
+    margin: 2rem;
     color: hsl(220, 15%, 55%);
 }
